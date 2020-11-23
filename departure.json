@@ -1,0 +1,5354 @@
+[
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2008,
+        "Departures": 28
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2009,
+        "Departures": 70
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2010,
+        "Departures": 106
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2011,
+        "Departures": 255
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2012,
+        "Departures": 110
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2013,
+        "Departures": 138
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2014,
+        "Departures": 140
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2015,
+        "Departures": 151
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2016,
+        "Departures": 89
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2017,
+        "Departures": 130
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2018,
+        "Departures": 226
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2008,
+        "Departures": 3716
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2009,
+        "Departures": 3404
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2010,
+        "Departures": 3443
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2011,
+        "Departures": 4120
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2012,
+        "Departures": 3959
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2013,
+        "Departures": 3928
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2014,
+        "Departures": 4146
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2015,
+        "Departures": 4504
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2016,
+        "Departures": 4852
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2017,
+        "Departures": 5186
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2018,
+        "Departures": 5415
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2008,
+        "Departures": 1539
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2009,
+        "Departures": 1677
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2010,
+        "Departures": 1757
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2011,
+        "Departures": 1715
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2012,
+        "Departures": 1911
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2013,
+        "Departures": 2136
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2014,
+        "Departures": 2839
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2015,
+        "Departures": 3638
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2016,
+        "Departures": 4530
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2017,
+        "Departures": 5058
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ALGERIA",
+        "Year": 2018,
+        "Departures": 5610
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2008,
+        "Departures": 4614
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2009,
+        "Departures": 4981
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2010,
+        "Departures": 5307
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2011,
+        "Departures": 6686
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2012,
+        "Departures": 7266
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2013,
+        "Departures": 6746
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2014,
+        "Departures": 6517
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2015,
+        "Departures": 7807
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2016,
+        "Departures": 10417
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2017,
+        "Departures": 12213
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2018,
+        "Departures": 11130
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2008,
+        "Departures": 516
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2009,
+        "Departures": 526
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2010,
+        "Departures": 563
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2011,
+        "Departures": 715
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2012,
+        "Departures": 965
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2013,
+        "Departures": 1083
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2014,
+        "Departures": 1198
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2015,
+        "Departures": 1187
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2016,
+        "Departures": 1263
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2017,
+        "Departures": 1482
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2018,
+        "Departures": 1623
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2008,
+        "Departures": 5808
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2009,
+        "Departures": 6276
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2010,
+        "Departures": 7103
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2011,
+        "Departures": 7788
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2012,
+        "Departures": 8212
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2013,
+        "Departures": 9052
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2014,
+        "Departures": 9480
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2015,
+        "Departures": 9810
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2016,
+        "Departures": 10390
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2017,
+        "Departures": 10932
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2018,
+        "Departures": 11403
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2008,
+        "Departures": 9677
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2009,
+        "Departures": 10121
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2010,
+        "Departures": 9882
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2011,
+        "Departures": 9874
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2012,
+        "Departures": 10960
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2013,
+        "Departures": 10671
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2014,
+        "Departures": 10994
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2015,
+        "Departures": 10628
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2016,
+        "Departures": 11534
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2017,
+        "Departures": 11491
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "AUSTRIA",
+        "Year": 2018,
+        "Departures": 11883
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2008,
+        "Departures": 2162
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2009,
+        "Departures": 2363
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2010,
+        "Departures": 3176
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2011,
+        "Departures": 3550
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2012,
+        "Departures": 3874
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2013,
+        "Departures": 4285
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2014,
+        "Departures": 4244
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2015,
+        "Departures": 4096
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2016,
+        "Departures": 4282
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2017,
+        "Departures": 4109
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2018,
+        "Departures": 4908
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2008,
+        "Departures": 380
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2009,
+        "Departures": 316
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2010,
+        "Departures": 415
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2011,
+        "Departures": 320
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2012,
+        "Departures": 493
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2013,
+        "Departures": 708
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2014,
+        "Departures": 741
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2015,
+        "Departures": 671
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2016,
+        "Departures": 467
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2017,
+        "Departures": 706
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2018,
+        "Departures": 836
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2008,
+        "Departures": 8887
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2009,
+        "Departures": 8775
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2010,
+        "Departures": 8801
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2011,
+        "Departures": 9727
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2012,
+        "Departures": 9576
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2013,
+        "Departures": 10803
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2014,
+        "Departures": 10991
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2015,
+        "Departures": 10835
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2016,
+        "Departures": 13372
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2017,
+        "Departures": 12142
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELGIUM",
+        "Year": 2018,
+        "Departures": 13098
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2008,
+        "Departures": 589
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2009,
+        "Departures": 518
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2010,
+        "Departures": 604
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2011,
+        "Departures": 775
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2012,
+        "Departures": 788
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2013,
+        "Departures": 837
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2014,
+        "Departures": 932
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2015,
+        "Departures": 965
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2016,
+        "Departures": 940
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2017,
+        "Departures": 997
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2018,
+        "Departures": 1060
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2008,
+        "Departures": 5238
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2009,
+        "Departures": 4920
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2010,
+        "Departures": 6457
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2011,
+        "Departures": 7807
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2012,
+        "Departures": 8497
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2013,
+        "Departures": 8866
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2014,
+        "Departures": 9617
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2015,
+        "Departures": 9478
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2016,
+        "Departures": 8872
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2017,
+        "Departures": 10610
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2018,
+        "Departures": 10628
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2008,
+        "Departures": 5727
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2009,
+        "Departures": 4993
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2010,
+        "Departures": 3676
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2011,
+        "Departures": 3803
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2012,
+        "Departures": 3758
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2013,
+        "Departures": 3930
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2014,
+        "Departures": 4158
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2015,
+        "Departures": 4632
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2016,
+        "Departures": 5392
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2017,
+        "Departures": 6228
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2018,
+        "Departures": 6699
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2008,
+        "Departures": 786
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2009,
+        "Departures": 340
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2010,
+        "Departures": 505
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2011,
+        "Departures": 710
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2012,
+        "Departures": 792
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2013,
+        "Departures": 872
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2014,
+        "Departures": 956
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2015,
+        "Departures": 1194
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2016,
+        "Departures": 1434
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2017,
+        "Departures": 1752
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2018,
+        "Departures": 1995
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2008,
+        "Departures": 27034
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2009,
+        "Departures": 26204
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2010,
+        "Departures": 28680
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2011,
+        "Departures": 30450
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2012,
+        "Departures": 32276
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2013,
+        "Departures": 32971
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2014,
+        "Departures": 33518
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2015,
+        "Departures": 32267
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2016,
+        "Departures": 31278
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2017,
+        "Departures": 33060
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CANADA",
+        "Year": 2018,
+        "Departures": 26033
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2008,
+        "Departures": 1900
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2009,
+        "Departures": 1909
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2010,
+        "Departures": 2219
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2011,
+        "Departures": 2638
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2012,
+        "Departures": 2837
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2013,
+        "Departures": 2999
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2014,
+        "Departures": 3169
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2015,
+        "Departures": 3359
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2016,
+        "Departures": 3553
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2017,
+        "Departures": 3620
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2018,
+        "Departures": 3825
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2008,
+        "Departures": 45844
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2009,
+        "Departures": 47656
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2010,
+        "Departures": 57386
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2011,
+        "Departures": 70250
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2012,
+        "Departures": 83182
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2013,
+        "Departures": 98185
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2014,
+        "Departures": 116593
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2015,
+        "Departures": 127860
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2016,
+        "Departures": 135130
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2017,
+        "Departures": 143035
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CHINA",
+        "Year": 2018,
+        "Departures": 149720
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2008,
+        "Departures": 2042
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2009,
+        "Departures": 2122
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2010,
+        "Departures": 2342
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2011,
+        "Departures": 2522
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2012,
+        "Departures": 3169
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2013,
+        "Departures": 3605
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2014,
+        "Departures": 3911
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2015,
+        "Departures": 3862
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2016,
+        "Departures": 3795
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2017,
+        "Departures": 4017
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2018,
+        "Departures": 4368
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2008,
+        "Departures": 13
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2009,
+        "Departures": 12
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2010,
+        "Departures": 12
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2011,
+        "Departures": 13
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2012,
+        "Departures": 12
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2013,
+        "Departures": 12
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2014,
+        "Departures": 12
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2015,
+        "Departures": 13
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2016,
+        "Departures": 14
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2017,
+        "Departures": 13
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "COOK ISLANDS",
+        "Year": 2018,
+        "Departures": 14
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2008,
+        "Departures": 528
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2009,
+        "Departures": 579
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2010,
+        "Departures": 662
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2011,
+        "Departures": 717
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2012,
+        "Departures": 773
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2013,
+        "Departures": 790
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2014,
+        "Departures": 798
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2015,
+        "Departures": 919
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2016,
+        "Departures": 1036
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2017,
+        "Departures": 1150
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2018,
+        "Departures": 1079
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2008,
+        "Departures": 2357
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2009,
+        "Departures": 2497
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2010,
+        "Departures": 1873
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2011,
+        "Departures": 2880
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2012,
+        "Departures": 2680
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2013,
+        "Departures": 2927
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2014,
+        "Departures": 2763
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2015,
+        "Departures": 2578
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2016,
+        "Departures": 1615
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2017,
+        "Departures": 1923
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2018,
+        "Departures": 2058
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2008,
+        "Departures": 1210
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2009,
+        "Departures": 1172
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2010,
+        "Departures": 1246
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2011,
+        "Departures": 1209
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2012,
+        "Departures": 1194
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2013,
+        "Departures": 1115
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2014,
+        "Departures": 1209
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2015,
+        "Departures": 1119
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2016,
+        "Departures": 1268
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2017,
+        "Departures": 1407
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2018,
+        "Departures": 1446
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2008,
+        "Departures": 9665
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2009,
+        "Departures": 8904
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2010,
+        "Departures": 8673
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2011,
+        "Departures": 5279
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2012,
+        "Departures": 5419
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2013,
+        "Departures": 5781
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2014,
+        "Departures": 5651
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2015,
+        "Departures": 5856
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2016,
+        "Departures": 6027
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2017,
+        "Departures": 6775
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2018,
+        "Departures": 7390
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2008,
+        "Departures": 6347
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2009,
+        "Departures": 7037
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2010,
+        "Departures": 7726
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2011,
+        "Departures": 7846
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2012,
+        "Departures": 7843
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2013,
+        "Departures": 6977
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2014,
+        "Departures": 8528
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2015,
+        "Departures": 8991
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2016,
+        "Departures": 9651
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2017,
+        "Departures": 8087
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "DENMARK",
+        "Year": 2018,
+        "Departures": 7475
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2008,
+        "Departures": 413
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2009,
+        "Departures": 415
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2010,
+        "Departures": 401
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2011,
+        "Departures": 408
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2012,
+        "Departures": 418
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2013,
+        "Departures": 392
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2014,
+        "Departures": 427
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2015,
+        "Departures": 478
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2016,
+        "Departures": 500
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2017,
+        "Departures": 522
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "DOMINICAN REPUBLIC",
+        "Year": 2018,
+        "Departures": 514
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2008,
+        "Departures": 815
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2009,
+        "Departures": 814
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2010,
+        "Departures": 899
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2011,
+        "Departures": 1022
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2012,
+        "Departures": 1022
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2013,
+        "Departures": 1138
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2014,
+        "Departures": 1096
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2015,
+        "Departures": 1221
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2016,
+        "Departures": 1366
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2017,
+        "Departures": 1347
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2018,
+        "Departures": 1402
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2008,
+        "Departures": 692
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2009,
+        "Departures": 752
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2010,
+        "Departures": 955
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2011,
+        "Departures": 1054
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2012,
+        "Departures": 1147
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2013,
+        "Departures": 1166
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2014,
+        "Departures": 1426
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2015,
+        "Departures": 1250
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2016,
+        "Departures": 1339
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2017,
+        "Departures": 1279
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ESTONIA",
+        "Year": 2018,
+        "Departures": 2069
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2008,
+        "Departures": 1177
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2009,
+        "Departures": 1245
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2010,
+        "Departures": 1141
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2011,
+        "Departures": 1264
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2012,
+        "Departures": 1403
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2013,
+        "Departures": 1573
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2014,
+        "Departures": 1657
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2015,
+        "Departures": 1713
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2016,
+        "Departures": 1789
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2017,
+        "Departures": 1751
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2018,
+        "Departures": 1717
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2008,
+        "Departures": 5854
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2009,
+        "Departures": 5832
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2010,
+        "Departures": 6633
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2011,
+        "Departures": 7274
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2012,
+        "Departures": 9055
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2013,
+        "Departures": 8562
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2014,
+        "Departures": 8731
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2015,
+        "Departures": 8904
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2016,
+        "Departures": 9125
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2017,
+        "Departures": 9330
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2018,
+        "Departures": 9450
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2008,
+        "Departures": 25506
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2009,
+        "Departures": 25140
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2010,
+        "Departures": 25041
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2011,
+        "Departures": 26155
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2012,
+        "Departures": 25317
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2013,
+        "Departures": 26062
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2014,
+        "Departures": 27919
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2015,
+        "Departures": 26648
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2016,
+        "Departures": 26483
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2017,
+        "Departures": 29055
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2018,
+        "Departures": 26914
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2008,
+        "Departures": 1872
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2009,
+        "Departures": 1980
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2010,
+        "Departures": 2086
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2011,
+        "Departures": 2237
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2012,
+        "Departures": 2734
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2013,
+        "Departures": 3220
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2014,
+        "Departures": 3106
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2015,
+        "Departures": 3136
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2016,
+        "Departures": 3400
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2017,
+        "Departures": 3851
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2018,
+        "Departures": 3698
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2008,
+        "Departures": 86201
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2009,
+        "Departures": 85547
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2010,
+        "Departures": 85872
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2011,
+        "Departures": 84692
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2012,
+        "Departures": 82729
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2013,
+        "Departures": 87459
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2014,
+        "Departures": 83008
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2015,
+        "Departures": 83737
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2016,
+        "Departures": 90966
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2017,
+        "Departures": 92402
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2018,
+        "Departures": 108542
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2008,
+        "Departures": 3765
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2009,
+        "Departures": 3835
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2010,
+        "Departures": 3799
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2011,
+        "Departures": 4941
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2012,
+        "Departures": 4681
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2013,
+        "Departures": 4594
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2014,
+        "Departures": 5802
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2015,
+        "Departures": 6291
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2016,
+        "Departures": 7235
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2017,
+        "Departures": 7685
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2018,
+        "Departures": 7961
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2008,
+        "Departures": 1277
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2009,
+        "Departures": 651
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2010,
+        "Departures": 694
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2011,
+        "Departures": 718
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2012,
+        "Departures": 721
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2013,
+        "Departures": 846
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2014,
+        "Departures": 992
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2015,
+        "Departures": 1130
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2016,
+        "Departures": 1195
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2017,
+        "Departures": 1328
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "GUATEMALA",
+        "Year": 2018,
+        "Departures": 1536
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2008,
+        "Departures": 81911
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2009,
+        "Departures": 81958
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2010,
+        "Departures": 84442
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2011,
+        "Departures": 84816
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2012,
+        "Departures": 85276
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2013,
+        "Departures": 84414
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2014,
+        "Departures": 84519
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2015,
+        "Departures": 89082
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2016,
+        "Departures": 91758
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2017,
+        "Departures": 91304
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2018,
+        "Departures": 92214
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2008,
+        "Departures": 17162
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2009,
+        "Departures": 16640
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2010,
+        "Departures": 16082
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2011,
+        "Departures": 16634
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2012,
+        "Departures": 16143
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2013,
+        "Departures": 16038
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2014,
+        "Departures": 16340
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2015,
+        "Departures": 17276
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2016,
+        "Departures": 18895
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2017,
+        "Departures": 20297
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2018,
+        "Departures": 22805
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2008,
+        "Departures": 414
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2009,
+        "Departures": 259
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2010,
+        "Departures": 299
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2011,
+        "Departures": 341
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2012,
+        "Departures": 358
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2013,
+        "Departures": 365
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2014,
+        "Departures": 400
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2015,
+        "Departures": 450
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2016,
+        "Departures": 536
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2017,
+        "Departures": 619
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2018,
+        "Departures": 668
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2008,
+        "Departures": 10868
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2009,
+        "Departures": 11067
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2010,
+        "Departures": 12988
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2011,
+        "Departures": 13994
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2012,
+        "Departures": 14920
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2013,
+        "Departures": 16626
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2014,
+        "Departures": 18330
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2015,
+        "Departures": 20376
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2016,
+        "Departures": 21872
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2017,
+        "Departures": 23943
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2018,
+        "Departures": 26296
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2008,
+        "Departures": 5486
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2009,
+        "Departures": 5053
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2010,
+        "Departures": 6235
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2011,
+        "Departures": 6750
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2012,
+        "Departures": 7454
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2013,
+        "Departures": 8025
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2014,
+        "Departures": 8074
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2015,
+        "Departures": 8176
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2016,
+        "Departures": 8340
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2017,
+        "Departures": 8856
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2018,
+        "Departures": 9468
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2008,
+        "Departures": 7877
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2009,
+        "Departures": 7047
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2010,
+        "Departures": 6917
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2011,
+        "Departures": 6514
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2012,
+        "Departures": 6600
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2013,
+        "Departures": 6579
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2014,
+        "Departures": 6676
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2015,
+        "Departures": 7094
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2016,
+        "Departures": 7646
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2017,
+        "Departures": 8171
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2018,
+        "Departures": 8643
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2008,
+        "Departures": 4207
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2009,
+        "Departures": 4007
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2010,
+        "Departures": 4269
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2011,
+        "Departures": 4387
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2012,
+        "Departures": 4349
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2013,
+        "Departures": 4757
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2014,
+        "Departures": 5181
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2015,
+        "Departures": 5891
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2016,
+        "Departures": 6781
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2017,
+        "Departures": 7597
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2018,
+        "Departures": 8473
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2008,
+        "Departures": 26464
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2009,
+        "Departures": 27490
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2010,
+        "Departures": 28188
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2011,
+        "Departures": 27831
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2012,
+        "Departures": 27376
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2013,
+        "Departures": 26305
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2014,
+        "Departures": 26862
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2015,
+        "Departures": 27494
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2016,
+        "Departures": 29067
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2017,
+        "Departures": 31805
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ITALY",
+        "Year": 2018,
+        "Departures": 33347
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2008,
+        "Departures": 15987
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2009,
+        "Departures": 15446
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2010,
+        "Departures": 16637
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2011,
+        "Departures": 16994
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2012,
+        "Departures": 18491
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2013,
+        "Departures": 17473
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2014,
+        "Departures": 16903
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2015,
+        "Departures": 16214
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2016,
+        "Departures": 17116
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2017,
+        "Departures": 17889
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2018,
+        "Departures": 18954
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2008,
+        "Departures": 11996
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2009,
+        "Departures": 9494
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2010,
+        "Departures": 12488
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2011,
+        "Departures": 12694
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2012,
+        "Departures": 13737
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2013,
+        "Departures": 14846
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2014,
+        "Departures": 16081
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2015,
+        "Departures": 19310
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2016,
+        "Departures": 22383
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2017,
+        "Departures": 26496
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2018,
+        "Departures": 28696
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2008,
+        "Departures": 2273
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2009,
+        "Departures": 2354
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2010,
+        "Departures": 1342
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2011,
+        "Departures": 3061
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2012,
+        "Departures": 3621
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2013,
+        "Departures": 3993
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2014,
+        "Departures": 3790
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2015,
+        "Departures": 4008
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2016,
+        "Departures": 4185
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2017,
+        "Departures": 4446
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2018,
+        "Departures": 6839
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2008,
+        "Departures": 3782
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2009,
+        "Departures": 3268
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2010,
+        "Departures": 3332
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2011,
+        "Departures": 3257
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2012,
+        "Departures": 183
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2013,
+        "Departures": 1776
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2014,
+        "Departures": 1846
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2015,
+        "Departures": 1720
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2016,
+        "Departures": 1939
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2017,
+        "Departures": 2055
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LATVIA",
+        "Year": 2018,
+        "Departures": 2175
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2008,
+        "Departures": 1757
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2009,
+        "Departures": 1288
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2010,
+        "Departures": 1411
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2011,
+        "Departures": 1526
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2012,
+        "Departures": 1708
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2013,
+        "Departures": 1764
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2014,
+        "Departures": 1789
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2015,
+        "Departures": 1860
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2016,
+        "Departures": 1953
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2017,
+        "Departures": 2032
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LITHUANIA",
+        "Year": 2018,
+        "Departures": 2244
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2008,
+        "Departures": 1190
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2009,
+        "Departures": 1362
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2010,
+        "Departures": 1237
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2011,
+        "Departures": 1643
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2012,
+        "Departures": 1580
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2013,
+        "Departures": 1624
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2014,
+        "Departures": 1815
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2015,
+        "Departures": 1702
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2016,
+        "Departures": 1588
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2017,
+        "Departures": 1802
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2018,
+        "Departures": 1989
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2008,
+        "Departures": 606
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2009,
+        "Departures": 671
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2010,
+        "Departures": 753
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2011,
+        "Departures": 908
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2012,
+        "Departures": 1291
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2013,
+        "Departures": 1446
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2014,
+        "Departures": 1537
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2015,
+        "Departures": 1466
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2016,
+        "Departures": 1251
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2017,
+        "Departures": 1391
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2018,
+        "Departures": 1579
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2008,
+        "Departures": 261
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2009,
+        "Departures": 264
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2010,
+        "Departures": 294
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2011,
+        "Departures": 309
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2012,
+        "Departures": 331
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2013,
+        "Departures": 363
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2014,
+        "Departures": 391
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2015,
+        "Departures": 428
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2016,
+        "Departures": 497
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2017,
+        "Departures": 573
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MALTA",
+        "Year": 2018,
+        "Departures": 667
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2008,
+        "Departures": 226
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2009,
+        "Departures": 196
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2010,
+        "Departures": 212
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2011,
+        "Departures": 219
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2012,
+        "Departures": 237
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2013,
+        "Departures": 228
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2014,
+        "Departures": 223
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2015,
+        "Departures": 242
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2016,
+        "Departures": 260
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2017,
+        "Departures": 283
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2018,
+        "Departures": 296
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2008,
+        "Departures": 14527
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2009,
+        "Departures": 14104
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2010,
+        "Departures": 14334
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2011,
+        "Departures": 14799
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2012,
+        "Departures": 15581
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2013,
+        "Departures": 15911
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2014,
+        "Departures": 18261
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2015,
+        "Departures": 19603
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2016,
+        "Departures": 20223
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2017,
+        "Departures": 19067
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2018,
+        "Departures": 19748
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2008,
+        "Departures": 3421
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2009,
+        "Departures": 2293
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2010,
+        "Departures": 2175
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2011,
+        "Departures": 2378
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2012,
+        "Departures": 2323
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2013,
+        "Departures": 2195
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2014,
+        "Departures": 1850
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2015,
+        "Departures": 1910
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2016,
+        "Departures": 1864
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2017,
+        "Departures": 1849
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2018,
+        "Departures": 1923
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2008,
+        "Departures": 18399
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2009,
+        "Departures": 18340
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2010,
+        "Departures": 18368
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2011,
+        "Departures": 18560
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2012,
+        "Departures": 18628
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2013,
+        "Departures": 18094
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2014,
+        "Departures": 17928
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2015,
+        "Departures": 18070
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2016,
+        "Departures": 17938
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2017,
+        "Departures": 22095
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NETHERLANDS",
+        "Year": 2018,
+        "Departures": 22115
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2008,
+        "Departures": 112
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2009,
+        "Departures": 119
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2010,
+        "Departures": 132
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2011,
+        "Departures": 124
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2012,
+        "Departures": 121
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2013,
+        "Departures": 121
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2014,
+        "Departures": 124
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2015,
+        "Departures": 127
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2016,
+        "Departures": 134
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2017,
+        "Departures": 135
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW CALEDONIA",
+        "Year": 2018,
+        "Departures": 139
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2008,
+        "Departures": 1967
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2009,
+        "Departures": 1918
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2010,
+        "Departures": 2026
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2011,
+        "Departures": 2096
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2012,
+        "Departures": 2172
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2013,
+        "Departures": 2197
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2014,
+        "Departures": 2276
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2015,
+        "Departures": 2412
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2016,
+        "Departures": 2611
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2017,
+        "Departures": 2853
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "NEW ZEALAND",
+        "Year": 2018,
+        "Departures": 3038
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2008,
+        "Departures": 942
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2009,
+        "Departures": 858
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2010,
+        "Departures": 908
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2011,
+        "Departures": 912
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2012,
+        "Departures": 979
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2013,
+        "Departures": 994
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2014,
+        "Departures": 959
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2015,
+        "Departures": 925
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2016,
+        "Departures": 981
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2017,
+        "Departures": 982
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "NICARAGUA",
+        "Year": 2018,
+        "Departures": 974
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2008,
+        "Departures": 2062
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2009,
+        "Departures": 1645
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2010,
+        "Departures": 1873
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2011,
+        "Departures": 2446
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2012,
+        "Departures": 2888
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2013,
+        "Departures": 3103
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2014,
+        "Departures": 3358
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2015,
+        "Departures": 3838
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2016,
+        "Departures": 4167
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2017,
+        "Departures": 4473
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2018,
+        "Departures": 3350
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2008,
+        "Departures": 369
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2009,
+        "Departures": 336
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2010,
+        "Departures": 392
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2011,
+        "Departures": 414
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2012,
+        "Departures": 447
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2013,
+        "Departures": 619
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2014,
+        "Departures": 853
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2015,
+        "Departures": 740
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2016,
+        "Departures": 770
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2017,
+        "Departures": 917
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2018,
+        "Departures": 681
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2008,
+        "Departures": 278
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2009,
+        "Departures": 288
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2010,
+        "Departures": 302
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2011,
+        "Departures": 347
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2012,
+        "Departures": 400
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2013,
+        "Departures": 440
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2014,
+        "Departures": 426
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2015,
+        "Departures": 1008
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2016,
+        "Departures": 1503
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2017,
+        "Departures": 1548
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2018,
+        "Departures": 1266
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2008,
+        "Departures": 1913
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2009,
+        "Departures": 1891
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2010,
+        "Departures": 2058
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2011,
+        "Departures": 2132
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2012,
+        "Departures": 2296
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2013,
+        "Departures": 2364
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2014,
+        "Departures": 2442
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2015,
+        "Departures": 2595
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2016,
+        "Departures": 2751
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2017,
+        "Departures": 2875
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2018,
+        "Departures": 3078
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2008,
+        "Departures": 50243
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2009,
+        "Departures": 39270
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2010,
+        "Departures": 42760
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2011,
+        "Departures": 43270
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2012,
+        "Departures": 48290
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2013,
+        "Departures": 52580
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2014,
+        "Departures": 35400
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2015,
+        "Departures": 44300
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2016,
+        "Departures": 44500
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2017,
+        "Departures": 46700
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2018,
+        "Departures": 48600
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2008,
+        "Departures": 13072
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2009,
+        "Departures": 11723
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2010,
+        "Departures": 10905
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2011,
+        "Departures": 10936
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2012,
+        "Departures": 11149
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2013,
+        "Departures": 11364
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2014,
+        "Departures": 12299
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2015,
+        "Departures": 13118
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2016,
+        "Departures": 16128
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2017,
+        "Departures": 19953
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2018,
+        "Departures": 21039
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2008,
+        "Departures": 36538
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2009,
+        "Departures": 34276
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2010,
+        "Departures": 39323
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2011,
+        "Departures": 43726
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2012,
+        "Departures": 47813
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2013,
+        "Departures": 54069
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2014,
+        "Departures": 45889
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2015,
+        "Departures": 34550
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2016,
+        "Departures": 31659
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2017,
+        "Departures": 39629
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2018,
+        "Departures": 41964
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2008,
+        "Departures": 4087
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2009,
+        "Departures": 6032
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2010,
+        "Departures": 17827
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2011,
+        "Departures": 15281
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2012,
+        "Departures": 18671
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2013,
+        "Departures": 19154
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2014,
+        "Departures": 19824
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2015,
+        "Departures": 20819
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2016,
+        "Departures": 21207
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2017,
+        "Departures": 21146
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2018,
+        "Departures": 21866
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2008,
+        "Departures": 54
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2009,
+        "Departures": 49
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2010,
+        "Departures": 59
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2011,
+        "Departures": 48
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2012,
+        "Departures": 45
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2013,
+        "Departures": 47
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2014,
+        "Departures": 50
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2015,
+        "Departures": 56
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2016,
+        "Departures": 68
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2017,
+        "Departures": 74
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2018,
+        "Departures": 72
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2008,
+        "Departures": 73
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2009,
+        "Departures": 72
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2010,
+        "Departures": 76
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2011,
+        "Departures": 99
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2012,
+        "Departures": 104
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2013,
+        "Departures": 111
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2014,
+        "Departures": 93
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2015,
+        "Departures": 61
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2016,
+        "Departures": 92
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2017,
+        "Departures": 110
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SIERRA LEONE",
+        "Year": 2018,
+        "Departures": 112
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2008,
+        "Departures": 6828
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2009,
+        "Departures": 6961
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2010,
+        "Departures": 7342
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2011,
+        "Departures": 7753
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2012,
+        "Departures": 8048
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2013,
+        "Departures": 8647
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2014,
+        "Departures": 8647
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2015,
+        "Departures": 8903
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2016,
+        "Departures": 9125
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2017,
+        "Departures": 9474
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SINGAPORE",
+        "Year": 2018,
+        "Departures": 9889
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2008,
+        "Departures": 2459
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2009,
+        "Departures": 2586
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2010,
+        "Departures": 2874
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2011,
+        "Departures": 2722
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2012,
+        "Departures": 2474
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2013,
+        "Departures": 2612
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2014,
+        "Departures": 2642
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2015,
+        "Departures": 2867
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2016,
+        "Departures": 2853
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2017,
+        "Departures": 3013
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2018,
+        "Departures": 3188
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2008,
+        "Departures": 11229
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2009,
+        "Departures": 12017
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2010,
+        "Departures": 12379
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2011,
+        "Departures": 13347
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2012,
+        "Departures": 12422
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2013,
+        "Departures": 11246
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2014,
+        "Departures": 11783
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2015,
+        "Departures": 14407
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2016,
+        "Departures": 15405
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2017,
+        "Departures": 17031
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SPAIN",
+        "Year": 2018,
+        "Departures": 19116
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2008,
+        "Departures": 966
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2009,
+        "Departures": 963
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2010,
+        "Departures": 1122
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2011,
+        "Departures": 1239
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2012,
+        "Departures": 1269
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2013,
+        "Departures": 1262
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2014,
+        "Departures": 1311
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2015,
+        "Departures": 1356
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2016,
+        "Departures": 1448
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2017,
+        "Departures": 1439
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2018,
+        "Departures": 1476
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2008,
+        "Departures": 11147
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2009,
+        "Departures": 10453
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2010,
+        "Departures": 10011
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2011,
+        "Departures": 10466
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2012,
+        "Departures": 12098
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2013,
+        "Departures": 12403
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2014,
+        "Departures": 12518
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2015,
+        "Departures": 13601
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2016,
+        "Departures": 13857
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2017,
+        "Departures": 15318
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2018,
+        "Departures": 15285
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2008,
+        "Departures": 8465
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2009,
+        "Departures": 8143
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2010,
+        "Departures": 9415
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2011,
+        "Departures": 9584
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2012,
+        "Departures": 10240
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2013,
+        "Departures": 11053
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2014,
+        "Departures": 11845
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2015,
+        "Departures": 13183
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2016,
+        "Departures": 14589
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2017,
+        "Departures": 15655
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2018,
+        "Departures": 16645
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2008,
+        "Departures": 3908
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2009,
+        "Departures": 4653
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2010,
+        "Departures": 5451
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2011,
+        "Departures": 5397
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2012,
+        "Departures": 5721
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2013,
+        "Departures": 5970
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2014,
+        "Departures": 6444
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2015,
+        "Departures": 6794
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2016,
+        "Departures": 8204
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2017,
+        "Departures": 8963
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2018,
+        "Departures": 9966
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2008,
+        "Departures": 4893
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2009,
+        "Departures": 5561
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2010,
+        "Departures": 6557
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2011,
+        "Departures": 6282
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2012,
+        "Departures": 5803
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2013,
+        "Departures": 7526
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2014,
+        "Departures": 7982
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2015,
+        "Departures": 8751
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2016,
+        "Departures": 7892
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2017,
+        "Departures": 8887
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2018,
+        "Departures": 8383
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2008,
+        "Departures": 15499
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2009,
+        "Departures": 15334
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2010,
+        "Departures": 17180
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2011,
+        "Departures": 19773
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2012,
+        "Departures": 21433
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2013,
+        "Departures": 23761
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2014,
+        "Departures": 22438
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2015,
+        "Departures": 23142
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2016,
+        "Departures": 24668
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2017,
+        "Departures": 26437
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2018,
+        "Departures": 27811
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2018,
+        "Departures": 18904
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2008,
+        "Departures": 69011
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2009,
+        "Departures": 58614
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2010,
+        "Departures": 55562
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2011,
+        "Departures": 56836
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2012,
+        "Departures": 56538
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2013,
+        "Departures": 57792
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2014,
+        "Departures": 60082
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2015,
+        "Departures": 65720
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2016,
+        "Departures": 70815
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2017,
+        "Departures": 72772
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UNITED KINGDOM",
+        "Year": 2018,
+        "Departures": 71733
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2008,
+        "Departures": 63653
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2009,
+        "Departures": 62130
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2010,
+        "Departures": 61061
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2011,
+        "Departures": 59209
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2012,
+        "Departures": 60697
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2013,
+        "Departures": 61344
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2014,
+        "Departures": 68185
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2015,
+        "Departures": 74191
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2016,
+        "Departures": 80223
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2017,
+        "Departures": 87657
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2018,
+        "Departures": 92564
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2008,
+        "Departures": 734
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2009,
+        "Departures": 826
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2010,
+        "Departures": 1027
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2011,
+        "Departures": 1534
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2012,
+        "Departures": 1816
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2013,
+        "Departures": 2281
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2014,
+        "Departures": 2396
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2015,
+        "Departures": 2217
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2016,
+        "Departures": 1715
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2017,
+        "Departures": 1789
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2018,
+        "Departures": 1947
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2008,
+        "Departures": 19
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2009,
+        "Departures": 20
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2010,
+        "Departures": 21
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2011,
+        "Departures": 22
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2012,
+        "Departures": 23
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2013,
+        "Departures": 26
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2014,
+        "Departures": 26
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2015,
+        "Departures": 27
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2016,
+        "Departures": 25
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2017,
+        "Departures": 28
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2018,
+        "Departures": 29
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2008,
+        "Departures": 593
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2009,
+        "Departures": 631
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2010,
+        "Departures": 650
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2011,
+        "Departures": 693
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2012,
+        "Departures": 720
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2013,
+        "Departures": 2946
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2014,
+        "Departures": 3182
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2015,
+        "Departures": 3393
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2016,
+        "Departures": 3192
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2017,
+        "Departures": 2768
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ZIMBABWE",
+        "Year": 2018,
+        "Departures": 2987
+    }
+]
