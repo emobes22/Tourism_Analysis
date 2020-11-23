@@ -1,0 +1,7802 @@
+[
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2008,
+        "Expenditures": 8
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2009,
+        "Expenditures": 36
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2010,
+        "Expenditures": 75
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2011,
+        "Expenditures": 85
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2012,
+        "Expenditures": 102
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2013,
+        "Expenditures": 138
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2014,
+        "Expenditures": 109
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2015,
+        "Expenditures": 79
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2016,
+        "Expenditures": 49
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2017,
+        "Expenditures": 2
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AFGHANISTAN",
+        "Year": 2018,
+        "Expenditures": 28
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2008,
+        "Expenditures": 1850
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2009,
+        "Expenditures": 2013
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2010,
+        "Expenditures": 1778
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2011,
+        "Expenditures": 1833
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2012,
+        "Expenditures": 1623
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2013,
+        "Expenditures": 1670
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2014,
+        "Expenditures": 1849
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2015,
+        "Expenditures": 1613
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2016,
+        "Expenditures": 1821
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2017,
+        "Expenditures": 2050
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ALBANIA",
+        "Year": 2018,
+        "Expenditures": 2306
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2008,
+        "Expenditures": 293
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2009,
+        "Expenditures": 554
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2010,
+        "Expenditures": 726
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2011,
+        "Expenditures": 653
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2012,
+        "Expenditures": 711
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2013,
+        "Expenditures": 1241
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2014,
+        "Expenditures": 1597
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2015,
+        "Expenditures": 1171
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2016,
+        "Expenditures": 628
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2017,
+        "Expenditures": 884
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ANGOLA",
+        "Year": 2018,
+        "Expenditures": 557
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2008,
+        "Expenditures": 5273
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2009,
+        "Expenditures": 4455
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2010,
+        "Expenditures": 5605
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2011,
+        "Expenditures": 6058
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2012,
+        "Expenditures": 5665
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2013,
+        "Expenditures": 5199
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2014,
+        "Expenditures": 5645
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2015,
+        "Expenditures": 5441
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2016,
+        "Expenditures": 5466
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2017,
+        "Expenditures": 5835
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ARGENTINA",
+        "Year": 2018,
+        "Expenditures": 5999
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2008,
+        "Expenditures": 564
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2009,
+        "Expenditures": 570
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2010,
+        "Expenditures": 694
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2011,
+        "Expenditures": 762
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2012,
+        "Expenditures": 853
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2013,
+        "Expenditures": 905
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2014,
+        "Expenditures": 994
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2015,
+        "Expenditures": 956
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2016,
+        "Expenditures": 988
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2017,
+        "Expenditures": 1140
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ARMENIA",
+        "Year": 2018,
+        "Expenditures": 1237
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2008,
+        "Expenditures": 1352
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2009,
+        "Expenditures": 1223
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2010,
+        "Expenditures": 1254
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2011,
+        "Expenditures": 1358
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2012,
+        "Expenditures": 1412
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2013,
+        "Expenditures": 1506
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2014,
+        "Expenditures": 1756
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2015,
+        "Expenditures": 1808
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2016,
+        "Expenditures": 1764
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2017,
+        "Expenditures": 1857
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "ARUBA",
+        "Year": 2018,
+        "Expenditures": 2024
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2008,
+        "Expenditures": 27189
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2009,
+        "Expenditures": 26909
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2010,
+        "Expenditures": 31064
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2011,
+        "Expenditures": 34315
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2012,
+        "Expenditures": 34137
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2013,
+        "Expenditures": 32889
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2014,
+        "Expenditures": 35736
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2015,
+        "Expenditures": 36249
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2016,
+        "Expenditures": 39059
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2017,
+        "Expenditures": 43975
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "AUSTRALIA",
+        "Year": 2018,
+        "Expenditures": 47327
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2008,
+        "Expenditures": 382
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2009,
+        "Expenditures": 545
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2010,
+        "Expenditures": 792
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2011,
+        "Expenditures": 1500
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2012,
+        "Expenditures": 2634
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2013,
+        "Expenditures": 2618
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2014,
+        "Expenditures": 2713
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2015,
+        "Expenditures": 2535
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2016,
+        "Expenditures": 2855
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2017,
+        "Expenditures": 3214
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "AZERBAIJAN",
+        "Year": 2018,
+        "Expenditures": 2830
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2008,
+        "Expenditures": 2155
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2009,
+        "Expenditures": 2025
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2010,
+        "Expenditures": 2159
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2011,
+        "Expenditures": 2157
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2012,
+        "Expenditures": 2333
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2013,
+        "Expenditures": 2305
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2014,
+        "Expenditures": 2336
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2015,
+        "Expenditures": 2554
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2016,
+        "Expenditures": 3091
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2017,
+        "Expenditures": 3017
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "BAHAMAS",
+        "Year": 2018,
+        "Expenditures": 3383
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2008,
+        "Expenditures": 1927
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2009,
+        "Expenditures": 1873
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2010,
+        "Expenditures": 2163
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2011,
+        "Expenditures": 1766
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2012,
+        "Expenditures": 1752
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2013,
+        "Expenditures": 1875
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2014,
+        "Expenditures": 1913
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2015,
+        "Expenditures": 2827
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2016,
+        "Expenditures": 4021
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2017,
+        "Expenditures": 4380
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BAHRAIN",
+        "Year": 2018,
+        "Expenditures": 3834
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2008,
+        "Expenditures": 585
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2009,
+        "Expenditures": 563
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2010,
+        "Expenditures": 665
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2011,
+        "Expenditures": 747
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2012,
+        "Expenditures": 986
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2013,
+        "Expenditures": 1156
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2014,
+        "Expenditures": 1230
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2015,
+        "Expenditures": 1013
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2016,
+        "Expenditures": 1019
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2017,
+        "Expenditures": 1124
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BELARUS",
+        "Year": 2018,
+        "Expenditures": 1221
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2008,
+        "Expenditures": 47
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2009,
+        "Expenditures": 51
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2010,
+        "Expenditures": 64
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2011,
+        "Expenditures": 76
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2012,
+        "Expenditures": 93
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2013,
+        "Expenditures": 116
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2014,
+        "Expenditures": 99
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2015,
+        "Expenditures": 120
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2016,
+        "Expenditures": 139
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2017,
+        "Expenditures": 153
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "BHUTAN",
+        "Year": 2018,
+        "Expenditures": 121
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2008,
+        "Expenditures": 302
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2009,
+        "Expenditures": 306
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2010,
+        "Expenditures": 339
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2011,
+        "Expenditures": 499
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2012,
+        "Expenditures": 631
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2013,
+        "Expenditures": 639
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2014,
+        "Expenditures": 746
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2015,
+        "Expenditures": 810
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2016,
+        "Expenditures": 827
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2017,
+        "Expenditures": 912
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2018,
+        "Expenditures": 970
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2008,
+        "Expenditures": 913
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2009,
+        "Expenditures": 753
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2010,
+        "Expenditures": 662
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2011,
+        "Expenditures": 722
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2012,
+        "Expenditures": 686
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2013,
+        "Expenditures": 752
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2014,
+        "Expenditures": 755
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2015,
+        "Expenditures": 795
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2016,
+        "Expenditures": 876
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2017,
+        "Expenditures": 985
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BOSNIA AND HERZEGOVINA",
+        "Year": 2018,
+        "Expenditures": 1081
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2008,
+        "Expenditures": 511
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2009,
+        "Expenditures": 664
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2010,
+        "Expenditures": 440
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2011,
+        "Expenditures": 468
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2012,
+        "Expenditures": 516
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2013,
+        "Expenditures": 484
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2014,
+        "Expenditures": 529
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2015,
+        "Expenditures": 534
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2016,
+        "Expenditures": 505
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2017,
+        "Expenditures": 542
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "BOTSWANA",
+        "Year": 2018,
+        "Expenditures": 575
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2008,
+        "Expenditures": 6109
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2009,
+        "Expenditures": 5635
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2010,
+        "Expenditures": 5522
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2011,
+        "Expenditures": 6370
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2012,
+        "Expenditures": 6623
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2013,
+        "Expenditures": 6784
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2014,
+        "Expenditures": 7405
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2015,
+        "Expenditures": 6254
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2016,
+        "Expenditures": 6613
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2017,
+        "Expenditures": 6175
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "BRAZIL",
+        "Year": 2018,
+        "Expenditures": 6324
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2008,
+        "Expenditures": 4852
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2009,
+        "Expenditures": 4273
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2010,
+        "Expenditures": 3807
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2011,
+        "Expenditures": 4297
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2012,
+        "Expenditures": 3975
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2013,
+        "Expenditures": 4410
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2014,
+        "Expenditures": 4518
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2015,
+        "Expenditures": 3583
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2016,
+        "Expenditures": 4164
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2017,
+        "Expenditures": 4678
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "BULGARIA",
+        "Year": 2018,
+        "Expenditures": 5072
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2008,
+        "Expenditures": 432
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2009,
+        "Expenditures": 349
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2010,
+        "Expenditures": 387
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2011,
+        "Expenditures": 438
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2012,
+        "Expenditures": 452
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2013,
+        "Expenditures": 483
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2014,
+        "Expenditures": 453
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2015,
+        "Expenditures": 380
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2016,
+        "Expenditures": 397
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2017,
+        "Expenditures": 450
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CABO VERDE",
+        "Year": 2018,
+        "Expenditures": 524
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2008,
+        "Expenditures": 1280
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2009,
+        "Expenditures": 1463
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2010,
+        "Expenditures": 1671
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2011,
+        "Expenditures": 2258
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2012,
+        "Expenditures": 2663
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2013,
+        "Expenditures": 2895
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2014,
+        "Expenditures": 3220
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2015,
+        "Expenditures": 3419
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2016,
+        "Expenditures": 3523
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2017,
+        "Expenditures": 4024
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "CAMBODIA",
+        "Year": 2018,
+        "Expenditures": 4832
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2008,
+        "Expenditures": 167
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2009,
+        "Expenditures": 271
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2010,
+        "Expenditures": 171
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2011,
+        "Expenditures": 423
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2012,
+        "Expenditures": 377
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2013,
+        "Expenditures": 607
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2014,
+        "Expenditures": 629
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2015,
+        "Expenditures": 476
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2016,
+        "Expenditures": 508
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2017,
+        "Expenditures": 543
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "CAMEROON",
+        "Year": 2018,
+        "Expenditures": 633
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2008,
+        "Expenditures": 518
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2009,
+        "Expenditures": 458
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2010,
+        "Expenditures": 465
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2011,
+        "Expenditures": 472
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2012,
+        "Expenditures": 489
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2013,
+        "Expenditures": 500
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2014,
+        "Expenditures": 565
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2015,
+        "Expenditures": 680
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2016,
+        "Expenditures": 696
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2017,
+        "Expenditures": 782
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CAYMAN ISLANDS",
+        "Year": 2018,
+        "Expenditures": 880
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2008,
+        "Expenditures": 2481
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2009,
+        "Expenditures": 2380
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2010,
+        "Expenditures": 2362
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2011,
+        "Expenditures": 2723
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2012,
+        "Expenditures": 3158
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2013,
+        "Expenditures": 3171
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2014,
+        "Expenditures": 3202
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2015,
+        "Expenditures": 3412
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2016,
+        "Expenditures": 3744
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2017,
+        "Expenditures": 4372
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "CHILE",
+        "Year": 2018,
+        "Expenditures": 3972
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2008,
+        "Expenditures": 2936
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2009,
+        "Expenditures": 3050
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2010,
+        "Expenditures": 3441
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2011,
+        "Expenditures": 3801
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2012,
+        "Expenditures": 4363
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2013,
+        "Expenditures": 4759
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2014,
+        "Expenditures": 4887
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2015,
+        "Expenditures": 5235
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2016,
+        "Expenditures": 5584
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2017,
+        "Expenditures": 5882
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "COLOMBIA",
+        "Year": 2018,
+        "Expenditures": 6617
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2008,
+        "Expenditures": 2811
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2009,
+        "Expenditures": 2216
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2010,
+        "Expenditures": 2426
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2011,
+        "Expenditures": 2646
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2012,
+        "Expenditures": 2773
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2013,
+        "Expenditures": 3171
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2014,
+        "Expenditures": 3137
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2015,
+        "Expenditures": 3408
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2016,
+        "Expenditures": 3776
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2017,
+        "Expenditures": 3826
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "COSTA RICA",
+        "Year": 2018,
+        "Expenditures": 3995
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2008,
+        "Expenditures": 11615
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2009,
+        "Expenditures": 9300
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2010,
+        "Expenditures": 8299
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2011,
+        "Expenditures": 9598
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2012,
+        "Expenditures": 8912
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2013,
+        "Expenditures": 9715
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2014,
+        "Expenditures": 10079
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2015,
+        "Expenditures": 9018
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2016,
+        "Expenditures": 9820
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2017,
+        "Expenditures": 11128
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CROATIA",
+        "Year": 2018,
+        "Expenditures": 12075
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2008,
+        "Expenditures": 2535
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2009,
+        "Expenditures": 2249
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2010,
+        "Expenditures": 2396
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2011,
+        "Expenditures": 2503
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2012,
+        "Expenditures": 2614
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2013,
+        "Expenditures": 2608
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2014,
+        "Expenditures": 2546
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2015,
+        "Expenditures": 2819
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2016,
+        "Expenditures": 3069
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2017,
+        "Expenditures": 3302
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CUBA",
+        "Year": 2018,
+        "Expenditures": 2969
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2008,
+        "Expenditures": 383
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2009,
+        "Expenditures": 378
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2010,
+        "Expenditures": 438
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2011,
+        "Expenditures": 540
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2012,
+        "Expenditures": 676
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2013,
+        "Expenditures": 778
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2014,
+        "Expenditures": 820
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2015,
+        "Expenditures": 712
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2016,
+        "Expenditures": 644
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2017,
+        "Expenditures": 572
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "CURACAO",
+        "Year": 2018,
+        "Expenditures": 605
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2008,
+        "Expenditures": 3232
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2009,
+        "Expenditures": 2476
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2010,
+        "Expenditures": 2137
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2011,
+        "Expenditures": 2603
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2012,
+        "Expenditures": 2603
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2013,
+        "Expenditures": 2930
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2014,
+        "Expenditures": 2924
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2015,
+        "Expenditures": 2526
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2016,
+        "Expenditures": 2870
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2017,
+        "Expenditures": 3274
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CYPRUS",
+        "Year": 2018,
+        "Expenditures": 3449
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2008,
+        "Expenditures": 9228
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2009,
+        "Expenditures": 8164
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2010,
+        "Expenditures": 8068
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2011,
+        "Expenditures": 8930
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2012,
+        "Expenditures": 8174
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2013,
+        "Expenditures": 7792
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2014,
+        "Expenditures": 7614
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2015,
+        "Expenditures": 6766
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2016,
+        "Expenditures": 7041
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2017,
+        "Expenditures": 7695
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "CZECH REPUBLIC",
+        "Year": 2018,
+        "Expenditures": 8291
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2008,
+        "Expenditures": 745
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2009,
+        "Expenditures": 674
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2010,
+        "Expenditures": 786
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2011,
+        "Expenditures": 849
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2012,
+        "Expenditures": 1039
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2013,
+        "Expenditures": 1251
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2014,
+        "Expenditures": 1487
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2015,
+        "Expenditures": 1557
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2016,
+        "Expenditures": 1450
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2017,
+        "Expenditures": 1554
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "ECUADOR",
+        "Year": 2018,
+        "Expenditures": 1878
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2008,
+        "Expenditures": 12104
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2009,
+        "Expenditures": 11757
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2010,
+        "Expenditures": 13633
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2011,
+        "Expenditures": 9333
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2012,
+        "Expenditures": 10823
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2013,
+        "Expenditures": 6747
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2014,
+        "Expenditures": 7979
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2015,
+        "Expenditures": 6897
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2016,
+        "Expenditures": 3306
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2017,
+        "Expenditures": 8636
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "EGYPT",
+        "Year": 2018,
+        "Expenditures": 12704
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2008,
+        "Expenditures": 711
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2009,
+        "Expenditures": 549
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2010,
+        "Expenditures": 646
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2011,
+        "Expenditures": 729
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2012,
+        "Expenditures": 900
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2013,
+        "Expenditures": 1054
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2014,
+        "Expenditures": 1285
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2015,
+        "Expenditures": 1203
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2016,
+        "Expenditures": 1161
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2017,
+        "Expenditures": 1227
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "EL SALVADOR",
+        "Year": 2018,
+        "Expenditures": 1370
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2008,
+        "Expenditures": 26
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2009,
+        "Expenditures": 40
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2010,
+        "Expenditures": 51
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2011,
+        "Expenditures": 10
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2012,
+        "Expenditures": 29
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2013,
+        "Expenditures": 4
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2014,
+        "Expenditures": 16
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2015,
+        "Expenditures": 14
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2016,
+        "Expenditures": 13
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2017,
+        "Expenditures": 13
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ESWATINI",
+        "Year": 2018,
+        "Expenditures": 16
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2008,
+        "Expenditures": 1184
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2009,
+        "Expenditures": 1119
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2010,
+        "Expenditures": 1434
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2011,
+        "Expenditures": 1998
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2012,
+        "Expenditures": 1980
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2013,
+        "Expenditures": 2236
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2014,
+        "Expenditures": 2107
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2015,
+        "Expenditures": 2279
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2016,
+        "Expenditures": 2138
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2017,
+        "Expenditures": 2505
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "ETHIOPIA",
+        "Year": 2018,
+        "Expenditures": 3548
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2008,
+        "Expenditures": 952
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2009,
+        "Expenditures": 688
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2010,
+        "Expenditures": 825
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2011,
+        "Expenditures": 955
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2012,
+        "Expenditures": 989
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2013,
+        "Expenditures": 966
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2014,
+        "Expenditures": 1091
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2015,
+        "Expenditures": 1093
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2016,
+        "Expenditures": 1149
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2017,
+        "Expenditures": 1243
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "FIJI",
+        "Year": 2018,
+        "Expenditures": 1370
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2008,
+        "Expenditures": 4874
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2009,
+        "Expenditures": 4070
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2010,
+        "Expenditures": 4497
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2011,
+        "Expenditures": 5612
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2012,
+        "Expenditures": 5419
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2013,
+        "Expenditures": 5774
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2014,
+        "Expenditures": 5407
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2015,
+        "Expenditures": 4009
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2016,
+        "Expenditures": 4016
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2017,
+        "Expenditures": 5207
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FINLAND",
+        "Year": 2018,
+        "Expenditures": 5663
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2008,
+        "Expenditures": 68034
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2009,
+        "Expenditures": 58906
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2010,
+        "Expenditures": 56178
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2011,
+        "Expenditures": 66133
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2012,
+        "Expenditures": 63975
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2013,
+        "Expenditures": 66054
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2014,
+        "Expenditures": 67402
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2015,
+        "Expenditures": 66441
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2016,
+        "Expenditures": 63557
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2017,
+        "Expenditures": 67936
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "FRANCE",
+        "Year": 2018,
+        "Expenditures": 73125
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2008,
+        "Expenditures": 80
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2009,
+        "Expenditures": 64
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2010,
+        "Expenditures": 80
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2011,
+        "Expenditures": 86
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2012,
+        "Expenditures": 104
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2013,
+        "Expenditures": 78
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2014,
+        "Expenditures": 110
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2015,
+        "Expenditures": 121
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2016,
+        "Expenditures": 120
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2017,
+        "Expenditures": 116
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GAMBIA",
+        "Year": 2018,
+        "Expenditures": 168
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2008,
+        "Expenditures": 505
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2009,
+        "Expenditures": 537
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2010,
+        "Expenditures": 737
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2011,
+        "Expenditures": 1069
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2012,
+        "Expenditures": 1565
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2013,
+        "Expenditures": 1916
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2014,
+        "Expenditures": 1972
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2015,
+        "Expenditures": 2049
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2016,
+        "Expenditures": 2315
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2017,
+        "Expenditures": 2971
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "GEORGIA",
+        "Year": 2018,
+        "Expenditures": 3518
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2008,
+        "Expenditures": 53402
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2009,
+        "Expenditures": 47499
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2010,
+        "Expenditures": 49116
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2011,
+        "Expenditures": 53465
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2012,
+        "Expenditures": 51626
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2013,
+        "Expenditures": 55486
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2014,
+        "Expenditures": 58721
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2015,
+        "Expenditures": 50669
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2016,
+        "Expenditures": 52229
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2017,
+        "Expenditures": 56330
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GERMANY",
+        "Year": 2018,
+        "Expenditures": 60260
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2008,
+        "Expenditures": 970
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2009,
+        "Expenditures": 849
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2010,
+        "Expenditures": 706
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2011,
+        "Expenditures": 797
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2012,
+        "Expenditures": 1154
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2013,
+        "Expenditures": 1010
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2014,
+        "Expenditures": 1027
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2015,
+        "Expenditures": 911
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2016,
+        "Expenditures": 952
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2017,
+        "Expenditures": 919
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "GHANA",
+        "Year": 2018,
+        "Expenditures": 996
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2008,
+        "Expenditures": 17608
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2009,
+        "Expenditures": 16038
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2010,
+        "Expenditures": 13857
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2011,
+        "Expenditures": 16269
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2012,
+        "Expenditures": 14665
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2013,
+        "Expenditures": 17433
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2014,
+        "Expenditures": 19489
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2015,
+        "Expenditures": 17547
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2016,
+        "Expenditures": 16811
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2017,
+        "Expenditures": 19139
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "GREECE",
+        "Year": 2018,
+        "Expenditures": 21594
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2008,
+        "Expenditures": 620
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2009,
+        "Expenditures": 616
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2010,
+        "Expenditures": 627
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2011,
+        "Expenditures": 642
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2012,
+        "Expenditures": 684
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2013,
+        "Expenditures": 618
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2014,
+        "Expenditures": 706
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2015,
+        "Expenditures": 671
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2016,
+        "Expenditures": 700
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2017,
+        "Expenditures": 722
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "HONDURAS",
+        "Year": 2018,
+        "Expenditures": 745
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2008,
+        "Expenditures": 20236
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2009,
+        "Expenditures": 20291
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2010,
+        "Expenditures": 27208
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2011,
+        "Expenditures": 33169
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2012,
+        "Expenditures": 37098
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2013,
+        "Expenditures": 42426
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2014,
+        "Expenditures": 46352
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2015,
+        "Expenditures": 42491
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2016,
+        "Expenditures": 37838
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2017,
+        "Expenditures": 38170
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "HONG KONG, CHINA",
+        "Year": 2018,
+        "Expenditures": 41870
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2008,
+        "Expenditures": 7533
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2009,
+        "Expenditures": 7013
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2010,
+        "Expenditures": 6595
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2011,
+        "Expenditures": 7239
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2012,
+        "Expenditures": 6149
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2013,
+        "Expenditures": 6671
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2014,
+        "Expenditures": 7483
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2015,
+        "Expenditures": 6929
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2016,
+        "Expenditures": 7481
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2017,
+        "Expenditures": 8448
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "HUNGARY",
+        "Year": 2018,
+        "Expenditures": 9595
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ICELAND",
+        "Year": 2008,
+        "Expenditures": 881
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDIA",
+        "Year": 2018,
+        "Expenditures": 29143
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2008,
+        "Expenditures": 8150
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2009,
+        "Expenditures": 6053
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2010,
+        "Expenditures": 7618
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2011,
+        "Expenditures": 9038
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2012,
+        "Expenditures": 9463
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2013,
+        "Expenditures": 10302
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2014,
+        "Expenditures": 11567
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2015,
+        "Expenditures": 12054
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2016,
+        "Expenditures": 12566
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2017,
+        "Expenditures": 14691
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "INDONESIA",
+        "Year": 2018,
+        "Expenditures": 15600
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2008,
+        "Expenditures": 867
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2009,
+        "Expenditures": 1432
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2010,
+        "Expenditures": 1736
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2011,
+        "Expenditures": 1557
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2012,
+        "Expenditures": 1640
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2013,
+        "Expenditures": 1682
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2014,
+        "Expenditures": 1938
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2015,
+        "Expenditures": 2833
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2016,
+        "Expenditures": 3120
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2017,
+        "Expenditures": 2959
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "IRAQ",
+        "Year": 2018,
+        "Expenditures": 1986
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2008,
+        "Expenditures": 9972
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2009,
+        "Expenditures": 8465
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2010,
+        "Expenditures": 8185
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2011,
+        "Expenditures": 9532
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2012,
+        "Expenditures": 9060
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2013,
+        "Expenditures": 9536
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2014,
+        "Expenditures": 11097
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2015,
+        "Expenditures": 11479
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2016,
+        "Expenditures": 11429
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2017,
+        "Expenditures": 14294
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "IRELAND",
+        "Year": 2018,
+        "Expenditures": 14658
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2008,
+        "Expenditures": 5271
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2009,
+        "Expenditures": 4924
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2010,
+        "Expenditures": 5621
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2011,
+        "Expenditures": 5869
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2012,
+        "Expenditures": 6165
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2013,
+        "Expenditures": 6577
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2014,
+        "Expenditures": 6590
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2015,
+        "Expenditures": 6574
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2016,
+        "Expenditures": 6587
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2017,
+        "Expenditures": 7578
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "ISRAEL",
+        "Year": 2018,
+        "Expenditures": 8073
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2008,
+        "Expenditures": 13781
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2009,
+        "Expenditures": 12537
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2010,
+        "Expenditures": 15356
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2011,
+        "Expenditures": 12533
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2012,
+        "Expenditures": 16197
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2013,
+        "Expenditures": 16865
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2014,
+        "Expenditures": 20790
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2015,
+        "Expenditures": 27285
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2016,
+        "Expenditures": 33456
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2017,
+        "Expenditures": 36978
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JAPAN",
+        "Year": 2018,
+        "Expenditures": 45276
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2008,
+        "Expenditures": 3539
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2009,
+        "Expenditures": 3472
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2010,
+        "Expenditures": 4390
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2011,
+        "Expenditures": 4351
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2012,
+        "Expenditures": 5123
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2013,
+        "Expenditures": 5145
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2014,
+        "Expenditures": 5518
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2015,
+        "Expenditures": 4968
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2016,
+        "Expenditures": 4943
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2017,
+        "Expenditures": 5549
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "JORDAN",
+        "Year": 2018,
+        "Expenditures": 6221
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2008,
+        "Expenditures": 1255
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2009,
+        "Expenditures": 1185
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2010,
+        "Expenditures": 1236
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2011,
+        "Expenditures": 1524
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2012,
+        "Expenditures": 2154
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2013,
+        "Expenditures": 2365
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2014,
+        "Expenditures": 2239
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2015,
+        "Expenditures": 1833
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2016,
+        "Expenditures": 2038
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2017,
+        "Expenditures": 2356
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KAZAKHSTAN",
+        "Year": 2018,
+        "Expenditures": 2651
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2008,
+        "Expenditures": 13440
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2009,
+        "Expenditures": 13262
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2010,
+        "Expenditures": 14315
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2011,
+        "Expenditures": 17329
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2012,
+        "Expenditures": 18731
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2013,
+        "Expenditures": 19457
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2014,
+        "Expenditures": 22390
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2015,
+        "Expenditures": 18711
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2016,
+        "Expenditures": 20924
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2017,
+        "Expenditures": 17173
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KOREA, REPUBLIC OF",
+        "Year": 2018,
+        "Expenditures": 19856
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2008,
+        "Expenditures": 610
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2009,
+        "Expenditures": 660
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2010,
+        "Expenditures": 574
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2011,
+        "Expenditures": 644
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2012,
+        "Expenditures": 780
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2013,
+        "Expenditures": 619
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2014,
+        "Expenditures": 615
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2015,
+        "Expenditures": 931
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2016,
+        "Expenditures": 831
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2017,
+        "Expenditures": 643
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KUWAIT",
+        "Year": 2018,
+        "Expenditures": 919
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2008,
+        "Expenditures": 569
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2009,
+        "Expenditures": 300
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2010,
+        "Expenditures": 212
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2011,
+        "Expenditures": 405
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2012,
+        "Expenditures": 486
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2013,
+        "Expenditures": 585
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2014,
+        "Expenditures": 468
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2015,
+        "Expenditures": 482
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2016,
+        "Expenditures": 477
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2017,
+        "Expenditures": 480
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "KYRGYZSTAN",
+        "Year": 2018,
+        "Expenditures": 487
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2008,
+        "Expenditures": 280
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2009,
+        "Expenditures": 271
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2010,
+        "Expenditures": 385
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2011,
+        "Expenditures": 413
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2012,
+        "Expenditures": 461
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2013,
+        "Expenditures": 613
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2014,
+        "Expenditures": 642
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2015,
+        "Expenditures": 725
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2016,
+        "Expenditures": 717
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2017,
+        "Expenditures": 655
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Year": 2018,
+        "Expenditures": 757
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2008,
+        "Expenditures": 6317
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2009,
+        "Expenditures": 7157
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2010,
+        "Expenditures": 8026
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2011,
+        "Expenditures": 6797
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2012,
+        "Expenditures": 7361
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2013,
+        "Expenditures": 7032
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2014,
+        "Expenditures": 6835
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2015,
+        "Expenditures": 7087
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2016,
+        "Expenditures": 7373
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2017,
+        "Expenditures": 8086
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "LEBANON",
+        "Year": 2018,
+        "Expenditures": 8694
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2008,
+        "Expenditures": 4918
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2009,
+        "Expenditures": 4546
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2010,
+        "Expenditures": 4519
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2011,
+        "Expenditures": 5358
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2012,
+        "Expenditures": 5395
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2013,
+        "Expenditures": 5629
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2014,
+        "Expenditures": 6033
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2015,
+        "Expenditures": 4762
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2016,
+        "Expenditures": 4766
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2017,
+        "Expenditures": 4993
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "LUXEMBOURG",
+        "Year": 2018,
+        "Expenditures": 5537
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2008,
+        "Expenditures": 13749
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2009,
+        "Expenditures": 15182
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2010,
+        "Expenditures": 22688
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2011,
+        "Expenditures": 31118
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2012,
+        "Expenditures": 36521
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2013,
+        "Expenditures": 43665
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2014,
+        "Expenditures": 43303
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2015,
+        "Expenditures": 31500
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2016,
+        "Expenditures": 31015
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2017,
+        "Expenditures": 36465
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MACAO, CHINA",
+        "Year": 2018,
+        "Expenditures": 40358
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2008,
+        "Expenditures": 440
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2009,
+        "Expenditures": 328
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2010,
+        "Expenditures": 425
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2011,
+        "Expenditures": 507
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2012,
+        "Expenditures": 596
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2013,
+        "Expenditures": 609
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2014,
+        "Expenditures": 740
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2015,
+        "Expenditures": 696
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2016,
+        "Expenditures": 913
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2017,
+        "Expenditures": 849
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MADAGASCAR",
+        "Year": 2018,
+        "Expenditures": 879
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2008,
+        "Expenditures": 43
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2009,
+        "Expenditures": 46
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2010,
+        "Expenditures": 45
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2011,
+        "Expenditures": 36
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2012,
+        "Expenditures": 35
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2013,
+        "Expenditures": 33
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2014,
+        "Expenditures": 36
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2015,
+        "Expenditures": 39
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2016,
+        "Expenditures": 30
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2017,
+        "Expenditures": 35
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MALAWI",
+        "Year": 2018,
+        "Expenditures": 43
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2008,
+        "Expenditures": 18553
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2009,
+        "Expenditures": 17231
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2010,
+        "Expenditures": 19619
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2011,
+        "Expenditures": 21338
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2012,
+        "Expenditures": 21711
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2013,
+        "Expenditures": 23283
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2014,
+        "Expenditures": 24469
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2015,
+        "Expenditures": 19194
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2016,
+        "Expenditures": 19682
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2017,
+        "Expenditures": 20311
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MALAYSIA",
+        "Year": 2018,
+        "Expenditures": 21774
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2008,
+        "Expenditures": 3
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2009,
+        "Expenditures": 3
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2010,
+        "Expenditures": 4
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2011,
+        "Expenditures": 5
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2012,
+        "Expenditures": 4
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2013,
+        "Expenditures": 4
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2014,
+        "Expenditures": 5
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2015,
+        "Expenditures": 2
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2016,
+        "Expenditures": 30
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2017,
+        "Expenditures": 18
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "MARSHALL ISLANDS",
+        "Year": 2018,
+        "Expenditures": 20
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2008,
+        "Expenditures": 463
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2009,
+        "Expenditures": 420
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2010,
+        "Expenditures": 472
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2011,
+        "Expenditures": 516
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2012,
+        "Expenditures": 462
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2013,
+        "Expenditures": 484
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2014,
+        "Expenditures": 483
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2015,
+        "Expenditures": 334
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2016,
+        "Expenditures": 348
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2017,
+        "Expenditures": 510
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MARTINIQUE",
+        "Year": 2018,
+        "Expenditures": 530
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2008,
+        "Expenditures": 1823
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2009,
+        "Expenditures": 1390
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2010,
+        "Expenditures": 1585
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2011,
+        "Expenditures": 1808
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2012,
+        "Expenditures": 1778
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2013,
+        "Expenditures": 1593
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2014,
+        "Expenditures": 1719
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2015,
+        "Expenditures": 1680
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2016,
+        "Expenditures": 1824
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2017,
+        "Expenditures": 2005
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MAURITIUS",
+        "Year": 2018,
+        "Expenditures": 2161
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2008,
+        "Expenditures": 14726
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2009,
+        "Expenditures": 12542
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2010,
+        "Expenditures": 12628
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2011,
+        "Expenditures": 12458
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2012,
+        "Expenditures": 13320
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2013,
+        "Expenditures": 14311
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2014,
+        "Expenditures": 16606
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2015,
+        "Expenditures": 18729
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2016,
+        "Expenditures": 20619
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2017,
+        "Expenditures": 22467
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "MEXICO",
+        "Year": 2018,
+        "Expenditures": 23802
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2008,
+        "Expenditures": 293
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2009,
+        "Expenditures": 240
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2010,
+        "Expenditures": 222
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2011,
+        "Expenditures": 253
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2012,
+        "Expenditures": 279
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2013,
+        "Expenditures": 324
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2014,
+        "Expenditures": 328
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2015,
+        "Expenditures": 300
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2016,
+        "Expenditures": 344
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2017,
+        "Expenditures": 443
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MOLDOVA, REPUBLIC OF",
+        "Year": 2018,
+        "Expenditures": 500
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2008,
+        "Expenditures": 272
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2009,
+        "Expenditures": 253
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2010,
+        "Expenditures": 288
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2011,
+        "Expenditures": 197
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2012,
+        "Expenditures": 215
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2013,
+        "Expenditures": 236
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2014,
+        "Expenditures": 257
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2015,
+        "Expenditures": 279
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2016,
+        "Expenditures": 379
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2017,
+        "Expenditures": 462
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MONGOLIA",
+        "Year": 2018,
+        "Expenditures": 526
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2008,
+        "Expenditures": 859
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2009,
+        "Expenditures": 792
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2010,
+        "Expenditures": 765
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2011,
+        "Expenditures": 926
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2012,
+        "Expenditures": 860
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2013,
+        "Expenditures": 929
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2014,
+        "Expenditures": 959
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2015,
+        "Expenditures": 947
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2016,
+        "Expenditures": 978
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2017,
+        "Expenditures": 1110
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "MONTENEGRO",
+        "Year": 2018,
+        "Expenditures": 1224
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2008,
+        "Expenditures": 8885
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2009,
+        "Expenditures": 7980
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2010,
+        "Expenditures": 8176
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2011,
+        "Expenditures": 9101
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2012,
+        "Expenditures": 8491
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2013,
+        "Expenditures": 8201
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2014,
+        "Expenditures": 9070
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2015,
+        "Expenditures": 7765
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2016,
+        "Expenditures": 7922
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2017,
+        "Expenditures": 9086
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOROCCO",
+        "Year": 2018,
+        "Expenditures": 9523
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2008,
+        "Expenditures": 213
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2009,
+        "Expenditures": 217
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2010,
+        "Expenditures": 135
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2011,
+        "Expenditures": 171
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2012,
+        "Expenditures": 224
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2013,
+        "Expenditures": 228
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2014,
+        "Expenditures": 225
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2015,
+        "Expenditures": 202
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2016,
+        "Expenditures": 114
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2017,
+        "Expenditures": 164
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "MOZAMBIQUE",
+        "Year": 2018,
+        "Expenditures": 331
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2008,
+        "Expenditures": 80
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2009,
+        "Expenditures": 75
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2010,
+        "Expenditures": 91
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2011,
+        "Expenditures": 334
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2012,
+        "Expenditures": 550
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2013,
+        "Expenditures": 964
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2014,
+        "Expenditures": 1687
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2015,
+        "Expenditures": 2199
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2016,
+        "Expenditures": 2289
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2017,
+        "Expenditures": 1988
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "MYANMAR",
+        "Year": 2018,
+        "Expenditures": 1670
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2008,
+        "Expenditures": 484
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2009,
+        "Expenditures": 512
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2010,
+        "Expenditures": 473
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2011,
+        "Expenditures": 520
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2012,
+        "Expenditures": 635
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2013,
+        "Expenditures": 361
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2014,
+        "Expenditures": 552
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2015,
+        "Expenditures": 540
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2016,
+        "Expenditures": 349
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2017,
+        "Expenditures": 449
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NAMIBIA",
+        "Year": 2018,
+        "Expenditures": 488
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2008,
+        "Expenditures": 353
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2009,
+        "Expenditures": 439
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2010,
+        "Expenditures": 378
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2011,
+        "Expenditures": 415
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2012,
+        "Expenditures": 379
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2013,
+        "Expenditures": 460
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2014,
+        "Expenditures": 511
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2015,
+        "Expenditures": 509
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2016,
+        "Expenditures": 498
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2017,
+        "Expenditures": 712
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "NEPAL",
+        "Year": 2018,
+        "Expenditures": 744
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2008,
+        "Expenditures": 958
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2009,
+        "Expenditures": 791
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2010,
+        "Expenditures": 736
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2011,
+        "Expenditures": 688
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2012,
+        "Expenditures": 638
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2013,
+        "Expenditures": 616
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2014,
+        "Expenditures": 605
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2015,
+        "Expenditures": 461
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2016,
+        "Expenditures": 1088
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2017,
+        "Expenditures": 2615
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "NIGERIA",
+        "Year": 2018,
+        "Expenditures": 1977
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2008,
+        "Expenditures": 262
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2009,
+        "Expenditures": 232
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2010,
+        "Expenditures": 199
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2011,
+        "Expenditures": 242
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2012,
+        "Expenditures": 237
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2013,
+        "Expenditures": 270
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2014,
+        "Expenditures": 298
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2015,
+        "Expenditures": 268
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2016,
+        "Expenditures": 283
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2017,
+        "Expenditures": 331
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORTH MACEDONIA",
+        "Year": 2018,
+        "Expenditures": 387
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2008,
+        "Expenditures": 5702
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2009,
+        "Expenditures": 4949
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2010,
+        "Expenditures": 5299
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2011,
+        "Expenditures": 6565
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2012,
+        "Expenditures": 6784
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2013,
+        "Expenditures": 7175
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2014,
+        "Expenditures": 7503
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2015,
+        "Expenditures": 6370
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2016,
+        "Expenditures": 6285
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2017,
+        "Expenditures": 6840
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "NORWAY",
+        "Year": 2018,
+        "Expenditures": 7096
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2008,
+        "Expenditures": 1105
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2009,
+        "Expenditures": 1092
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2010,
+        "Expenditures": 1072
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2011,
+        "Expenditures": 1515
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2012,
+        "Expenditures": 1723
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2013,
+        "Expenditures": 1888
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2014,
+        "Expenditures": 1971
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2015,
+        "Expenditures": 2247
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2016,
+        "Expenditures": 2390
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2017,
+        "Expenditures": 2717
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "OMAN",
+        "Year": 2018,
+        "Expenditures": 2975
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2008,
+        "Expenditures": 986
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2009,
+        "Expenditures": 950
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2010,
+        "Expenditures": 998
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2011,
+        "Expenditures": 1127
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2012,
+        "Expenditures": 1014
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2013,
+        "Expenditures": 938
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2014,
+        "Expenditures": 971
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2015,
+        "Expenditures": 915
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2016,
+        "Expenditures": 791
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2017,
+        "Expenditures": 866
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PAKISTAN",
+        "Year": 2018,
+        "Expenditures": 818
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2008,
+        "Expenditures": 2208
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2009,
+        "Expenditures": 2280
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2010,
+        "Expenditures": 2621
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2011,
+        "Expenditures": 3630
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2012,
+        "Expenditures": 4585
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2013,
+        "Expenditures": 5419
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2014,
+        "Expenditures": 5749
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2015,
+        "Expenditures": 5754
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2016,
+        "Expenditures": 6280
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2017,
+        "Expenditures": 6824
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PANAMA",
+        "Year": 2018,
+        "Expenditures": 5615
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2008,
+        "Expenditures": 128
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2009,
+        "Expenditures": 225
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2010,
+        "Expenditures": 243
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2011,
+        "Expenditures": 261
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2012,
+        "Expenditures": 291
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2013,
+        "Expenditures": 299
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2014,
+        "Expenditures": 314
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2015,
+        "Expenditures": 348
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2016,
+        "Expenditures": 356
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2017,
+        "Expenditures": 399
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PARAGUAY",
+        "Year": 2018,
+        "Expenditures": 393
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2008,
+        "Expenditures": 2396
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2009,
+        "Expenditures": 2440
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2010,
+        "Expenditures": 2475
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2011,
+        "Expenditures": 2814
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2012,
+        "Expenditures": 3074
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2013,
+        "Expenditures": 3916
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2014,
+        "Expenditures": 3907
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2015,
+        "Expenditures": 4140
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2016,
+        "Expenditures": 4288
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2017,
+        "Expenditures": 4573
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "PERU",
+        "Year": 2018,
+        "Expenditures": 4894
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2008,
+        "Expenditures": 3293
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2009,
+        "Expenditures": 2916
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2010,
+        "Expenditures": 3441
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2011,
+        "Expenditures": 4053
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2012,
+        "Expenditures": 4963
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2013,
+        "Expenditures": 5599
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2014,
+        "Expenditures": 6059
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2015,
+        "Expenditures": 6414
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2016,
+        "Expenditures": 6289
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2017,
+        "Expenditures": 8349
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "PHILIPPINES",
+        "Year": 2018,
+        "Expenditures": 9730
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2008,
+        "Expenditures": 12895
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2009,
+        "Expenditures": 9889
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2010,
+        "Expenditures": 10036
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2011,
+        "Expenditures": 11652
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2012,
+        "Expenditures": 11889
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2013,
+        "Expenditures": 12433
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2014,
+        "Expenditures": 12925
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2015,
+        "Expenditures": 11355
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2016,
+        "Expenditures": 12052
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2017,
+        "Expenditures": 14083
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "POLAND",
+        "Year": 2018,
+        "Expenditures": 15748
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2008,
+        "Expenditures": 14081
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2009,
+        "Expenditures": 12357
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2010,
+        "Expenditures": 12984
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2011,
+        "Expenditures": 14911
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2012,
+        "Expenditures": 14578
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2013,
+        "Expenditures": 16080
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2014,
+        "Expenditures": 17577
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2015,
+        "Expenditures": 16007
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2016,
+        "Expenditures": 17347
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2017,
+        "Expenditures": 21586
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "PORTUGAL",
+        "Year": 2018,
+        "Expenditures": 24105
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2008,
+        "Expenditures": 3535
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2009,
+        "Expenditures": 3176
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2010,
+        "Expenditures": 3211
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2011,
+        "Expenditures": 3143
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2012,
+        "Expenditures": 3193
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2013,
+        "Expenditures": 3311
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2014,
+        "Expenditures": 3439
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2015,
+        "Expenditures": 3825
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2016,
+        "Expenditures": 3974
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2017,
+        "Expenditures": 3848
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "PUERTO RICO",
+        "Year": 2018,
+        "Expenditures": 3282
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2008,
+        "Expenditures": 425
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2009,
+        "Expenditures": 441
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2010,
+        "Expenditures": 392
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2011,
+        "Expenditures": 445
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2012,
+        "Expenditures": 415
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2013,
+        "Expenditures": 418
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2014,
+        "Expenditures": 354
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2015,
+        "Expenditures": 333
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2016,
+        "Expenditures": 343
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2017,
+        "Expenditures": 427
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "REUNION",
+        "Year": 2018,
+        "Expenditures": 495
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2008,
+        "Expenditures": 2626
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2009,
+        "Expenditures": 1688
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2010,
+        "Expenditures": 1631
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2011,
+        "Expenditures": 2016
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2012,
+        "Expenditures": 1904
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2013,
+        "Expenditures": 2048
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2014,
+        "Expenditures": 2225
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2015,
+        "Expenditures": 2097
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2016,
+        "Expenditures": 2172
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2017,
+        "Expenditures": 3008
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "ROMANIA",
+        "Year": 2018,
+        "Expenditures": 3261
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2008,
+        "Expenditures": 15821
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2009,
+        "Expenditures": 12369
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2010,
+        "Expenditures": 13239
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2011,
+        "Expenditures": 16961
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2012,
+        "Expenditures": 17876
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2013,
+        "Expenditures": 20198
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2014,
+        "Expenditures": 19451
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2015,
+        "Expenditures": 13186
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2016,
+        "Expenditures": 12822
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2017,
+        "Expenditures": 14983
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "RUSSIAN FEDERATION",
+        "Year": 2018,
+        "Expenditures": 18670
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2008,
+        "Expenditures": 224
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2009,
+        "Expenditures": 223
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2010,
+        "Expenditures": 224
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2011,
+        "Expenditures": 298
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2012,
+        "Expenditures": 337
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2013,
+        "Expenditures": 364
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2014,
+        "Expenditures": 376
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2015,
+        "Expenditures": 427
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2016,
+        "Expenditures": 443
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2017,
+        "Expenditures": 548
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "RWANDA",
+        "Year": 2018,
+        "Expenditures": 528
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2008,
+        "Expenditures": 112
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2009,
+        "Expenditures": 115
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2010,
+        "Expenditures": 124
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2011,
+        "Expenditures": 135
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2012,
+        "Expenditures": 148
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2013,
+        "Expenditures": 137
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2014,
+        "Expenditures": 148
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2015,
+        "Expenditures": 142
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2016,
+        "Expenditures": 149
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2017,
+        "Expenditures": 167
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SAMOA",
+        "Year": 2018,
+        "Expenditures": 191
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2008,
+        "Expenditures": 6775
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2009,
+        "Expenditures": 6744
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2010,
+        "Expenditures": 7536
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2011,
+        "Expenditures": 9317
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2012,
+        "Expenditures": 8400
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2013,
+        "Expenditures": 8690
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2014,
+        "Expenditures": 9263
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2015,
+        "Expenditures": 11183
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2016,
+        "Expenditures": 13438
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2017,
+        "Expenditures": 15020
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SAUDI ARABIA",
+        "Year": 2018,
+        "Expenditures": 16975
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2008,
+        "Expenditures": 1114
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2009,
+        "Expenditures": 986
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2010,
+        "Expenditures": 950
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2011,
+        "Expenditures": 1149
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2012,
+        "Expenditures": 1080
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2013,
+        "Expenditures": 1221
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2014,
+        "Expenditures": 1352
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2015,
+        "Expenditures": 1322
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2016,
+        "Expenditures": 1461
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2017,
+        "Expenditures": 1706
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SERBIA",
+        "Year": 2018,
+        "Expenditures": 1921
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2008,
+        "Expenditures": 408
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2009,
+        "Expenditures": 349
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2010,
+        "Expenditures": 352
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2011,
+        "Expenditures": 380
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2012,
+        "Expenditures": 429
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2013,
+        "Expenditures": 484
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2014,
+        "Expenditures": 481
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2015,
+        "Expenditures": 483
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2016,
+        "Expenditures": 505
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2017,
+        "Expenditures": 585
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SEYCHELLES",
+        "Year": 2018,
+        "Expenditures": 611
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2008,
+        "Expenditures": 667
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2009,
+        "Expenditures": 619
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2010,
+        "Expenditures": 681
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2011,
+        "Expenditures": 729
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2012,
+        "Expenditures": 854
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2013,
+        "Expenditures": 871
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2014,
+        "Expenditures": 922
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2015,
+        "Expenditures": 913
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2016,
+        "Expenditures": 871
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2017,
+        "Expenditures": 646
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "SINT MAARTEN (DUTCH PART)",
+        "Year": 2018,
+        "Expenditures": 468
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2008,
+        "Expenditures": 3096
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2009,
+        "Expenditures": 2541
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2010,
+        "Expenditures": 2334
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2011,
+        "Expenditures": 2515
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2012,
+        "Expenditures": 2365
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2013,
+        "Expenditures": 2702
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2014,
+        "Expenditures": 2642
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2015,
+        "Expenditures": 2480
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2016,
+        "Expenditures": 2812
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2017,
+        "Expenditures": 3024
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVAKIA",
+        "Year": 2018,
+        "Expenditures": 3318
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2008,
+        "Expenditures": 2955
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2009,
+        "Expenditures": 2817
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2010,
+        "Expenditures": 2808
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2011,
+        "Expenditures": 3048
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2012,
+        "Expenditures": 2793
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2013,
+        "Expenditures": 2966
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2014,
+        "Expenditures": 3052
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2015,
+        "Expenditures": 2593
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2016,
+        "Expenditures": 2717
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2017,
+        "Expenditures": 3057
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SLOVENIA",
+        "Year": 2018,
+        "Expenditures": 3378
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2008,
+        "Expenditures": 31
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2009,
+        "Expenditures": 39
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2010,
+        "Expenditures": 51
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2011,
+        "Expenditures": 66
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2012,
+        "Expenditures": 65
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2013,
+        "Expenditures": 71
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2014,
+        "Expenditures": 65
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2015,
+        "Expenditures": 60
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2016,
+        "Expenditures": 71
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2017,
+        "Expenditures": 79
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "SOLOMON ISLANDS",
+        "Year": 2018,
+        "Expenditures": 92
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2008,
+        "Expenditures": 9178
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2009,
+        "Expenditures": 8684
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2010,
+        "Expenditures": 10309
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2011,
+        "Expenditures": 10706
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2012,
+        "Expenditures": 11202
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2013,
+        "Expenditures": 10468
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2014,
+        "Expenditures": 10484
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2015,
+        "Expenditures": 9140
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2016,
+        "Expenditures": 8807
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2017,
+        "Expenditures": 9706
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "SOUTH AFRICA",
+        "Year": 2018,
+        "Expenditures": 9789
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2008,
+        "Expenditures": 803
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2009,
+        "Expenditures": 754
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2010,
+        "Expenditures": 1044
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2011,
+        "Expenditures": 1421
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2012,
+        "Expenditures": 1756
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2013,
+        "Expenditures": 2506
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2014,
+        "Expenditures": 3278
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2015,
+        "Expenditures": 3978
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2016,
+        "Expenditures": 4591
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2017,
+        "Expenditures": 5083
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "SRI LANKA",
+        "Year": 2018,
+        "Expenditures": 5608
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2008,
+        "Expenditures": 83
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2009,
+        "Expenditures": 70
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2010,
+        "Expenditures": 69
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2011,
+        "Expenditures": 69
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2012,
+        "Expenditures": 79
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2013,
+        "Expenditures": 92
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2014,
+        "Expenditures": 103
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2015,
+        "Expenditures": 99
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2016,
+        "Expenditures": 74
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2017,
+        "Expenditures": 61
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "SURINAME",
+        "Year": 2018,
+        "Expenditures": 73
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2008,
+        "Expenditures": 17596
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2009,
+        "Expenditures": 16667
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2010,
+        "Expenditures": 17614
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2011,
+        "Expenditures": 20659
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2012,
+        "Expenditures": 19594
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2013,
+        "Expenditures": 20345
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2014,
+        "Expenditures": 21432
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2015,
+        "Expenditures": 19597
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2016,
+        "Expenditures": 19042
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2017,
+        "Expenditures": 19654
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "SWITZERLAND",
+        "Year": 2018,
+        "Expenditures": 20276
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2008,
+        "Expenditures": 7156
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2009,
+        "Expenditures": 7956
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2010,
+        "Expenditures": 10387
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2011,
+        "Expenditures": 13067
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2012,
+        "Expenditures": 14115
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2013,
+        "Expenditures": 14782
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2014,
+        "Expenditures": 17419
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2015,
+        "Expenditures": 16987
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2016,
+        "Expenditures": 15825
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2017,
+        "Expenditures": 14847
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2018,
+        "Expenditures": 16366
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2008,
+        "Expenditures": 24
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2009,
+        "Expenditures": 20
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2010,
+        "Expenditures": 142
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2011,
+        "Expenditures": 184
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2012,
+        "Expenditures": 287
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2013,
+        "Expenditures": 233
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2014,
+        "Expenditures": 220
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2015,
+        "Expenditures": 146
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2016,
+        "Expenditures": 150
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2017,
+        "Expenditures": 172
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TAJIKISTAN",
+        "Year": 2018,
+        "Expenditures": 171
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2008,
+        "Expenditures": 1293
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2009,
+        "Expenditures": 1192
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2010,
+        "Expenditures": 1279
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2011,
+        "Expenditures": 1383
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2012,
+        "Expenditures": 1754
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2013,
+        "Expenditures": 1939
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2014,
+        "Expenditures": 2047
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2015,
+        "Expenditures": 1924
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2016,
+        "Expenditures": 2149
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2017,
+        "Expenditures": 2265
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TANZANIA, UNITED REPUBLIC OF",
+        "Year": 2018,
+        "Expenditures": 2465
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2008,
+        "Expenditures": 22510
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2009,
+        "Expenditures": 19811
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2010,
+        "Expenditures": 23796
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2011,
+        "Expenditures": 30924
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2012,
+        "Expenditures": 34565
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2013,
+        "Expenditures": 41765
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2014,
+        "Expenditures": 38451
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2015,
+        "Expenditures": 44851
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2016,
+        "Expenditures": 48459
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2017,
+        "Expenditures": 57057
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "THAILAND",
+        "Year": 2018,
+        "Expenditures": 65242
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2008,
+        "Expenditures": 18
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2009,
+        "Expenditures": 18
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2010,
+        "Expenditures": 17
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2011,
+        "Expenditures": 33
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2012,
+        "Expenditures": 40
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2013,
+        "Expenditures": 47
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2014,
+        "Expenditures": 38
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2015,
+        "Expenditures": 46
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2016,
+        "Expenditures": 53
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2017,
+        "Expenditures": 49
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "TONGA",
+        "Year": 2018,
+        "Expenditures": 48
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2008,
+        "Expenditures": 557
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2009,
+        "Expenditures": 548
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2010,
+        "Expenditures": 630
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2011,
+        "Expenditures": 650
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2012,
+        "Expenditures": 852
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2013,
+        "Expenditures": 856
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2014,
+        "Expenditures": 875
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2015,
+        "Expenditures": 809
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2016,
+        "Expenditures": 708
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2017,
+        "Expenditures": 717
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "TRINIDAD AND TOBAGO",
+        "Year": 2018,
+        "Expenditures": 541
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2008,
+        "Expenditures": 3909
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2009,
+        "Expenditures": 3524
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2010,
+        "Expenditures": 3477
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2011,
+        "Expenditures": 2529
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2012,
+        "Expenditures": 2931
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2013,
+        "Expenditures": 2863
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2014,
+        "Expenditures": 3042
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2015,
+        "Expenditures": 1869
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2016,
+        "Expenditures": 1706
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2017,
+        "Expenditures": 1782
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "TUNISIA",
+        "Year": 2018,
+        "Expenditures": 2320
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2008,
+        "Expenditures": 26446
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2009,
+        "Expenditures": 26331
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2010,
+        "Expenditures": 26318
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2011,
+        "Expenditures": 30302
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2012,
+        "Expenditures": 31566
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2013,
+        "Expenditures": 36192
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2014,
+        "Expenditures": 38855
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2015,
+        "Expenditures": 35597
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2016,
+        "Expenditures": 26788
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2017,
+        "Expenditures": 31870
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "TURKEY",
+        "Year": 2018,
+        "Expenditures": 37140
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2008,
+        "Expenditures": 536
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2009,
+        "Expenditures": 683
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2010,
+        "Expenditures": 802
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2011,
+        "Expenditures": 977
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2012,
+        "Expenditures": 1157
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2013,
+        "Expenditures": 960
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2014,
+        "Expenditures": 984
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2015,
+        "Expenditures": 1049
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2016,
+        "Expenditures": 1118
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2017,
+        "Expenditures": 957
+    },
+    {
+        "Continent": "AFRICA",
+        "Country": "UGANDA",
+        "Year": 2018,
+        "Expenditures": 1044
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2008,
+        "Expenditures": 6722
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2009,
+        "Expenditures": 4349
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2010,
+        "Expenditures": 4696
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2011,
+        "Expenditures": 5406
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2012,
+        "Expenditures": 5988
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2013,
+        "Expenditures": 5931
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2014,
+        "Expenditures": 2264
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2015,
+        "Expenditures": 1662
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2016,
+        "Expenditures": 1723
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2017,
+        "Expenditures": 2019
+    },
+    {
+        "Continent": "EUROPE",
+        "Country": "UKRAINE",
+        "Year": 2018,
+        "Expenditures": 2269
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2008,
+        "Expenditures": 7162
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2009,
+        "Expenditures": 7352
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2010,
+        "Expenditures": 8577
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2011,
+        "Expenditures": 9204
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2012,
+        "Expenditures": 10924
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2013,
+        "Expenditures": 12389
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2014,
+        "Expenditures": 15221
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2015,
+        "Expenditures": 17481
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2016,
+        "Expenditures": 19496
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2017,
+        "Expenditures": 21048
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "UNITED ARAB EMIRATES",
+        "Year": 2018,
+        "Expenditures": 21390
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2008,
+        "Expenditures": 164721
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2009,
+        "Expenditures": 146002
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2010,
+        "Expenditures": 167996
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2011,
+        "Expenditures": 187629
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2012,
+        "Expenditures": 200997
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2013,
+        "Expenditures": 218496
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2014,
+        "Expenditures": 235990
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2015,
+        "Expenditures": 249183
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2016,
+        "Expenditures": 245991
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2017,
+        "Expenditures": 251544
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES OF AMERICA",
+        "Year": 2018,
+        "Expenditures": 256145
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2008,
+        "Expenditures": 1157
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2009,
+        "Expenditures": 1021
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2010,
+        "Expenditures": 1223
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2011,
+        "Expenditures": 1122
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2012,
+        "Expenditures": 1210
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2013,
+        "Expenditures": 1168
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2014,
+        "Expenditures": 1319
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2015,
+        "Expenditures": 1324
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2016,
+        "Expenditures": 1343
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2017,
+        "Expenditures": 1202
+    },
+    {
+        "Continent": "NORTH AMERICA",
+        "Country": "UNITED STATES VIRGIN ISLANDS",
+        "Year": 2018,
+        "Expenditures": 1046
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2008,
+        "Expenditures": 1195
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2009,
+        "Expenditures": 1460
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2010,
+        "Expenditures": 1669
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2011,
+        "Expenditures": 2401
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2012,
+        "Expenditures": 2439
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2013,
+        "Expenditures": 2182
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2014,
+        "Expenditures": 2029
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2015,
+        "Expenditures": 2070
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2016,
+        "Expenditures": 2182
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2017,
+        "Expenditures": 2660
+    },
+    {
+        "Continent": "SOUTH AMERICA",
+        "Country": "URUGUAY",
+        "Year": 2018,
+        "Expenditures": 2439
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2008,
+        "Expenditures": 188
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2009,
+        "Expenditures": 214
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2010,
+        "Expenditures": 242
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2011,
+        "Expenditures": 249
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2012,
+        "Expenditures": 268
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2013,
+        "Expenditures": 314
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2014,
+        "Expenditures": 284
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2015,
+        "Expenditures": 254
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2016,
+        "Expenditures": 275
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2017,
+        "Expenditures": 289
+    },
+    {
+        "Continent": "OCEANIA",
+        "Country": "VANUATU",
+        "Year": 2018,
+        "Expenditures": 325
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2008,
+        "Expenditures": 3930
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2009,
+        "Expenditures": 3050
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2010,
+        "Expenditures": 4450
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2011,
+        "Expenditures": 5710
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2012,
+        "Expenditures": 6850
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2013,
+        "Expenditures": 7250
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2014,
+        "Expenditures": 7410
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2015,
+        "Expenditures": 7350
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2016,
+        "Expenditures": 8500
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2017,
+        "Expenditures": 8890
+    },
+    {
+        "Continent": "ASIA",
+        "Country": "VIET NAM",
+        "Year": 2018,
+        "Expenditures": 10080
+    }
+]
