@@ -1,7 +1,7 @@
 # Tourism Analysis
 
 ## Introduction
-For this project, tourism data was analyzed to identify trends in international tourism.  
+For this project tourism data was analyzed to identify trends in international tourism.  
 
 
 ## Built With
