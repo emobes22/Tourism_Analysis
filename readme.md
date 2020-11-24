@@ -28,4 +28,4 @@ For this project, tourism data was analyzed to identify trends in international 
 * **Kathleen Heron**
 
 ## Sources
-* [UNData](http://data.un.org/DocumentData.aspx?q=tourism&id=409)
+* [UN Tourism Data](http://data.un.org/DocumentData.aspx?q=tourism&id=409) - Data was exported from UNData's website.
